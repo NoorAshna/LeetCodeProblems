@@ -1,3 +1,4 @@
+// link to the problem is https://leetcode.com/problems/group-anagrams/
 // one method is to sort the every element of the array and put in the hashmap as key and find the corrosponding elements through key. but its time complexity will be O(nlogn)
 // In the following code we make a hash for each element of the array then put it in the hashmap as key.
 // the value of hashmap will be the arraylist that matches the hash(key) in the hashmap.
